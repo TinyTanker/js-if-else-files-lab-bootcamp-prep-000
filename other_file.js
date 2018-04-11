@@ -1,5 +1,5 @@
 
 
-ver indes = require("./index.js")
+ver index = require("./index.js")
 
 console.log(index.name)
